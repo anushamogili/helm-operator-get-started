@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: anusha66/podinfo
-      tag: dev-jneij2cv
+      tag: dev-cbqlc6cy
     replicaCount: 2
     hpa:
       enabled: false
